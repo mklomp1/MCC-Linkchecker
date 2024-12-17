@@ -5,7 +5,7 @@ CONFIG = {
   // URL of the spreadsheet template.
   // This should be a copy of
   // https://docs.google.com/spreadsheets/d/1iO1iEGwlbe510qo3Li-j4KgyCeVSmodxU6J7M756ppk/copy.
-  'spreadsheet_url': 'https://docs.google.com/spreadsheets/d/1CKPBvJHsjjVWhVGNAxSYtIR2tyOkmCrzhBbAscViOK4/edit?gid=1280565513#gid=1280565513',
+  'spreadsheet_url': 'YOUR_SPREADSHEET_URL',
   
   // Label to use when a link has been checked.
   'label': 'LinkChecker_Done',
