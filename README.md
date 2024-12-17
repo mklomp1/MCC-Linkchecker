@@ -20,3 +20,7 @@ This is a modified version of the Google Ads Link Checker script with the follow
 - config.gs: Configuration settings
 - account-utils.gs: Account and email handling utilities
 - code.gs: Main implementation
+
+## Configuration
+
+See config.gs for all available configuration options.
